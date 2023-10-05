@@ -1,4 +1,4 @@
-# Coding Dojo 2023-03-23
+# Coding Dojo
 
 ## The ExpenseReport legacy code refactoring kata in various languages.
 
